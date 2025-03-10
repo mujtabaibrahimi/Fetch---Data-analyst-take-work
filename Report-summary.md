@@ -19,4 +19,3 @@
 ## Next Steps:
 - Need confirmation on handling missing demographic data.
 - Review incomplete product category information.
-
